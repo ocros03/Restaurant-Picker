@@ -1,7 +1,7 @@
 import random
 name = input("Who is using restaurant picker? ")
 
-rlist = ["RioGrande", \
+rlist = ["Rio Chico", \
          "BurgerCo", \
          "Easterbys", \
          "OCharleys", \
